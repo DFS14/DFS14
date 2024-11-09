@@ -2,7 +2,7 @@
 
 
 # 🔭 Technical Degree in Systems Development Analysis - ADS
-I am graduated in Systems Development Analysis - ADS.
+I am degree in Systems Development Analysis - ADS.
 
 
 ## Technologies that I use in my daily life!
