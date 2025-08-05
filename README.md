@@ -1,7 +1,9 @@
 ### Welcome to my github! I'm Dailton Soares👋
 
 
-# 🔭 degree in Systems Development Analysis - ADS.
+
+# 🔭 graduated in System Development Analysis.
+# 🔭 studying information technology management.
 
 
 ## Technologies that I use in my daily life!
