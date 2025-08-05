@@ -2,8 +2,8 @@
 
 
 
-# 🔭 graduated in System Development Analysis.
-# 🔭 studying information technology management.
+# 🔭 Graduated in System Development Analysis.
+# 🔭 Studying Information Technology Management.
 
 
 ## Technologies that I use in my daily life!
